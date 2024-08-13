@@ -1,4 +1,4 @@
-# Dotnet-Linux-Installation-Guide
+# Dotnet-Linux-Deployment-Guide
 
 ## Used Versions
 
