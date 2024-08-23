@@ -14,3 +14,7 @@ This repository provides a comprehensive installation guide for setting up a .NE
     Troubleshooting common issues
 
 This guide is designed to help developers and system administrators easily and efficiently set up .NET applications on Linux. Contributions and feedback are welcome!
+
+
+## Video Tutorial
+Check out the [YouTube video]([https://www.youtube.com/your-video-link](https://youtu.be/Rim4DIFcIGM?si=Uzc1ezkcvAIfhRFj)) demonstrating the setup using this guide.
