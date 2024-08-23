@@ -17,4 +17,4 @@ This guide is designed to help developers and system administrators easily and e
 
 
 ## Video Tutorial
-Check out the [YouTube video]([https://www.youtube.com/your-video-link](https://youtu.be/Rim4DIFcIGM?si=Uzc1ezkcvAIfhRFj)) demonstrating the setup using this guide.
+Check out the [YouTube video](https://youtu.be/Rim4DIFcIGM?si=Uzc1ezkcvAIfhRFj) demonstrating the setup using this guide.
